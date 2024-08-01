@@ -28,7 +28,6 @@ https://docs.google.com/document/d/1Sbv9YRucpMXTFYASh4b0JcYF523RS5mLkh6hhMwpJMQ/
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=iHarishKumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iHarishKumar&theme=dark&hide_border=false)<br/>
 
 
