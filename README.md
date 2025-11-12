@@ -1,3 +1,12 @@
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=iHarishKumar&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+
 # 💫 About Me:
 A Software Developer with overall 5+ years of experience in IT and 2+ years in Blockchain Technology.
 I have experience in developing smart contracts, automating the deployment process of smart contracts, following TDD(Test Driven Development) practices, and automating the tasks using OpenZeppelin Defender, Gelato, and Chainlink Keepers. A team player, team enabler, researcher, and passionate engineer who loves to explore and contribute to the Decentralised ecosystems(DApps). 
