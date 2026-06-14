@@ -1,6 +1,5 @@
 # 💫 About Me:
-A Software Developer with overall 9+ years of experience in IT and 6+ years in Blockchain Technology.
-I have experience in developing smart contracts, automating the deployment process of smart contracts, following TDD(Test Driven Development) practices, and automating the tasks using OpenZeppelin Defender, Gelato, and Chainlink Keepers. A team player, team enabler, researcher, and passionate engineer who loves to explore and contribute to the Decentralised ecosystems(DApps). 
+Seasoned Software Developer with 9+ years of experience in the IT industry, including over 6 years specializing in blockchain development and more than 1 year focused on AI-driven trading agents. Skilled in developing secure smart contracts, scalable backend services, and automation solutions for decentralized ecosystems. Experienced in collaborating with global clients and multidisciplinary teams to deliver high-impact software solutions, including financial DApps, AI agent platforms, and enterprise-scale data applications. Strong leadership and mentoring abilities with a proven record of successfully delivering complex, mission-critical projects.
 
 Achievements/Certifications:
  * A certified Blockchain developer from Emurgo Academy, India.
