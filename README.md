@@ -1,10 +1,11 @@
 # 💫 About Me:
-A Software Developer with overall 5+ years of experience in IT and 2+ years in Blockchain Technology.
+A Software Developer with overall 9+ years of experience in IT and 6+ years in Blockchain Technology.
 I have experience in developing smart contracts, automating the deployment process of smart contracts, following TDD(Test Driven Development) practices, and automating the tasks using OpenZeppelin Defender, Gelato, and Chainlink Keepers. A team player, team enabler, researcher, and passionate engineer who loves to explore and contribute to the Decentralised ecosystems(DApps). 
 
 Achievements/Certifications:
  * A certified Blockchain developer from Emurgo Academy, India.
  * Winner at MAXathon(Maxonrow’s online Hackathon)
+ * Certified Uniswap Hook Developer from Atrium Academy
  * Best Paper Award at 2nd International Conference on Intelligent Computing and Applications (ICICA 2015)
 
 In addition to the above skills, I have experience in Java, C++, SQL, ODBC, NodeJS, database design wrt REST API.
